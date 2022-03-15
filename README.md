@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=35083B&background=3DE1FF4A&center=true&lines=This+is+Bu64p!)](https://git.io/typing-svg)
-
+<i><b>
 - Hi, I’m Parsa
 - I’m interested in programming, electronic & 3D modeling
 - How to reach me -> Twitter: @Bu64p_
