@@ -5,7 +5,6 @@
 
 </i></b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bu64p&layout=compact&theme=tokyonight)](https://github.com/bu64p/bu64p)
 
 
 
