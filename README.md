@@ -4,7 +4,9 @@
 - Chemical Engineer
 - I’m interested in programming, electronic & 3D modeling
   
-![Uploading c1.png…]()
+
+![f3](https://github.com/user-attachments/assets/d8952fbc-cf51-4741-9158-fb1790f2285b)
+
 
 </i></b>
 
