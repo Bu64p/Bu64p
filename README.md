@@ -3,10 +3,6 @@
 - Hi, I’m Parsa
 - Chemical Engineer at Ferdowsi University of Mashhad, Iran
 - I’m interested in programming, electronic, 3D modeling & machine learning
-  
-
-![f3](https://github.com/user-attachments/assets/d8952fbc-cf51-4741-9158-fb1790f2285b)
-
 
 </i></b>
 
