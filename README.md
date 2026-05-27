@@ -4,7 +4,7 @@
 - Chemical Engineer at Ferdowsi University of Mashhad, Iran
 - I’m interested in programming, electronic, 3D modeling & machine learning.
 
-* btw if you can't find a repository or have any question, feel free to contact me.
+* btw if you can't find a repository or have any question, feel free to contact me on IG.
 </i></b>
 
 
